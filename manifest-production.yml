@@ -4,4 +4,4 @@ applications:
   path: build/libs/pal-tracker.jar
   host: ps-pal-tracker-seokwon
   services:
-  - tracker-databse
+  - tracker-database
