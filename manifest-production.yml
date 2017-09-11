@@ -5,5 +5,5 @@ applications:
   host: ps-pal-tracker-seokwon
   services:
   - tracker-database
-   env:
-      SECURITY_FORCE_HTTPS: true
+  env:
+    SECURITY_FORCE_HTTPS: true
